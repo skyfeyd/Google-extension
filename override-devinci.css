@@ -1,3 +1,9 @@
 .alert-info{
     display: none;    
+
+
+}
+/*Edt Branch*/
+.badge{
+    background-color: red !important;
 }
