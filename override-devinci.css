@@ -3,7 +3,15 @@
 
 
 }
-/*Edt Branch*/
-.badge{
-    background-color: red !important;
+.btn{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.btn.btn-small.dropdown-toggle{
+    border-radius: 10px;
+}
+
+.span6{
+    display: none;
 }
