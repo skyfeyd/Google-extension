@@ -63,3 +63,9 @@
 .overide-badge{
     background-color: rgb(46, 190, 46) !important;
 }
+
+.schoole_pastil{
+    float: none !important;
+    border: none !important;
+    background: none !important;
+}
