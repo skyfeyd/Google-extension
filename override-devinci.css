@@ -6,12 +6,21 @@
 .btn{
     border-radius: 10px;
     margin-top: 10px;
+    
 }
 
 .btn.btn-small.dropdown-toggle{
     border-radius: 10px;
 }
 
-.span6{
+.breadcrumb.small_margin{
+    display: none;
+}
+
+.navbar{
+    background-color: red !important;
+}
+
+.avatar{
     display: none;
 }
