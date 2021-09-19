@@ -1,0 +1,40 @@
+.alert-info{
+    display: none;    
+
+
+}
+.btn{
+    border-radius: 10px;
+    margin-top: 10px;
+    
+}
+
+.btn.btn-small.dropdown-toggle{
+    border-radius: 10px;
+}
+
+.breadcrumb.small_margin{
+    display: none;
+}
+
+.navbar{
+    background-color: red !important;
+}
+
+.avatar{
+    display: none;
+}
+
+.note_commentaire{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+}
+
+.dd-unite-student{
+    border: 0px !important;
+    background-color: white;
+}
+
+.dd-handle{
+    border: 15px !important;
+}
