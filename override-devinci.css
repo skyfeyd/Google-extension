@@ -1,3 +1,13 @@
+
+/* removed padding, margin and added border-box */
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* Removed coranavirus info */
 .alert-info{
     display: none;    
 }
@@ -27,5 +37,38 @@
 .span12{
     display: flex;
     align-items: center;
-    
+}
+/* fix display issue with student profile picture*/
+
+.img-polaroid.avatar{
+    display: block;
+    width: 100% !important;
+}
+
+/*Remove the stage section */
+
+.social-box.social-orange.social-bordered{
+    display: none;
+}
+
+/* class added to anything that just need a display:none */
+
+.remove{
+    display: none;
+}
+
+/* Allow the student info section to take all the available space */
+
+.student-override{
+    width: 100% !important;
+}
+
+.overide-badge{
+    background-color: rgb(46, 190, 46) !important;
+}
+
+.schoole_pastil{
+    float: none !important;
+    border: none !important;
+    background: none !important;
 }
