@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
 .alert-info{
     display: none;    
-
-
 }
 .btn{
     border-radius: 10px;
@@ -24,19 +21,9 @@
 
 .avatar{
     display: none;
-=======
-.alert-info{
-    display: none;    
-
-
-}
-/*Edt Branch*/
-.badge{
-    background-color: red !important;
->>>>>>> Stashed changes
 }
 
-/*edit abscence*/
+/*edit abscence*/  
 .span12{
     display: flex;
     align-items: center;
