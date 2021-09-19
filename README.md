@@ -1,4 +1,4 @@
-Welcome to the best chrome/opera extension for your Devinci using needs! This chrome extension slightly redesigns your student website to be easier, clearer and less crowded. Making sure you can access all the important information right away without changing too much of the interface you've been used to by  now! 3
+Welcome to the best chrome/opera extension for your Devinci using needs! This chrome extension slightly redesigns your student website to be easier, clearer and less crowded. Making sure you can access all the important information right away without changing too much of the interface you've been used to by  now! 
 
 ---
 
