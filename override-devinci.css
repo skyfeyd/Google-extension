@@ -18,6 +18,15 @@ a.btn{
     border-radius: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.alert-info{
+    display: none;    
+
+}
+
+.btn{
+    border-radius: 10px;
+    margin-top: 10px;
     
 }
 
@@ -75,4 +84,25 @@ a.btn{
     float: none !important;
     border: none !important;
     background: none !important;
+}
+.navbar{
+    background-color: red !important;
+}
+
+.avatar{
+    display: none;
+}
+
+.note_commentaire{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
+}
+
+.dd-unite-student{
+    border: 0px !important;
+    background-color: white;
+}
+
+.dd-handle{
+    border: 15px !important;
 }
